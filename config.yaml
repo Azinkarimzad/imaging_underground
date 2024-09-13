@@ -53,7 +53,7 @@ contact: 'azin.kari@gmail.com'
 # episodes:
 # - introduction.md
 # - first-steps.md
-#
+# - Introduction_Imaging.md
 # learners:
 # - setup.md
 #
@@ -66,8 +66,11 @@ contact: 'azin.kari@gmail.com'
 
 # Order of episodes in your lesson
 episodes: 
+- Introduction_Imaging.md
 - introduction.md
+- parvin.md
 - readingdata.md
+
 
 # Information for Learners
 learners: 
