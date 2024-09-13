@@ -10,7 +10,7 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::: objectives
+::::::::::::::::::::::::::::::::::::: objectivesaaa
 
 - Explain how to use markdown with The Carpentries Workbench
 - Demonstrate how to include pieces of code, figures, and nested challenge blocks
