@@ -3,6 +3,8 @@ title: Setup
 ---
 Just a test to see how everything goes(Azin)
 test: 
+
+---
 ## Software and Tools Needed
 Python:
 
