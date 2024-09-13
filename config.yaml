@@ -66,8 +66,9 @@ contact: 'azin.kari@gmail.com'
 
 # Order of episodes in your lesson
 episodes: 
-- introduction.md
+- lesson1_episode1.md
 - readingdata.md
+
 
 # Information for Learners
 learners: 
