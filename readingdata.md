@@ -110,4 +110,8 @@ Cool, right?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::challenge
+text (Azin)
+:::
+
 [r-markdown]: https://rmarkdown.rstudio.com/
