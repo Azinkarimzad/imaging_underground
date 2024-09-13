@@ -1,5 +1,5 @@
 ---
-title: "Using Markdown"
+title: "Introduction_Imaging"
 teaching: 10
 exercises: 2
 ---
