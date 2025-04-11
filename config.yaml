@@ -35,7 +35,7 @@ life_cycle: 'pre-alpha' # FIXME
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://azinkarimzad.github.io/imaging_underground/' 
+source: 'https://github.com/Azinkarimzad/imaging_underground/' 
 
 
 # Default branch of your lesson
