@@ -66,8 +66,7 @@ contact: 'azin.kari@gmail.com'
 
 # Order of episodes in your lesson
 episodes: 
-- Introduction_Imaging.md
-- introduction.md
+- Azin.md
 
 
 # Information for Learners
