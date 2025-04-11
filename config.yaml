@@ -22,9 +22,10 @@ title: 'Imaging_the_subsurface' # FIXME
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: 2024-09-12
+Updated: 2025-04-11
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, The Carpentries' # FIXME
+keywords: 'data, lesson, The Carpentries' # FIXME
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -40,7 +41,7 @@ source: 'https://github.com/Azinkarimzad/imaging_underground/'
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'azin.kari@gmail.com' 
+contact: 'azin.kari[at]gmail.com' 
 
 # Navigation ------------------------------------------------
 #
@@ -51,9 +52,14 @@ contact: 'azin.kari@gmail.com'
 # Example -------------
 #
 # episodes:
-# - introduction.md
-# - first-steps.md
-# - Introduction_Imaging.md
+# - Intro & Theory Refresher.md
+# - Setup & Data Loading.md
+# - AGC Implementation.md
+# - Background Removal.md
+# - Time-Zero Correction.md
+# - Bandpass Filtering.md
+# - Deconvolution.md 
+# - Wrap-up & Discussion.md
 # learners:
 # - setup.md
 #
@@ -66,10 +72,14 @@ contact: 'azin.kari@gmail.com'
 
 # Order of episodes in your lesson
 episodes: 
-- Introduction_Imaging.md
-- introduction.md
-- parvin.md
-- readingdata.md
+- Intro & Theory Refresher.md
+- Setup & Data Loading.md
+- AGC Implementation.md
+- Background Removal.md
+- Time-Zero Correction.md
+- Bandpass Filtering.md
+- Deconvolution.md 
+- Wrap-up & Discussion.md
 
 
 # Information for Learners
